@@ -61,7 +61,7 @@ export function HeroSection() {
             className="mb-10 font-heading text-2xl sm:text-4xl font-bold leading-tight text-white opacity-0 animate-fade-up stagger-1 md:text-5xl lg:text-6xl px-2"
             style={{ textShadow: '0 4px 8px rgba(0,0,0,0.7), 0 2px 4px rgba(0,0,0,0.5)' }}
           >
-            Twic East Girls' Association (TEGA)
+            Nyan Cit Arialbeek Association (NCAA)
           </h1>
 
           {/* Subheadline */}
@@ -124,7 +124,7 @@ export function HeroSection() {
                 className="font-heading text-lg sm:text-2xl font-bold text-white md:text-3xl"
                 style={{ textShadow: '0 2px 4px rgba(0,0,0,0.5)' }}
               >
-                2015
+                2023
               </p>
               <p
                 className="text-[10px] sm:text-xs text-white/90 md:text-sm"

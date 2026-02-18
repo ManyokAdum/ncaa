@@ -16,7 +16,7 @@ const UpcomingEvents = () => {
                 Upcoming Events
               </h1>
               <p className="text-lg text-primary-foreground/90 md:text-xl">
-                What’s next for the Nyan Cit Arialbeek community.
+                What's next for the NCAA community.
               </p>
             </div>
           </div>

@@ -7,7 +7,7 @@ export const aboutData = {
         paragraphs: [
             `The Nyan Cit Arialbeek (NCAA) is dedicated to championing the education,
             welfare, and empowerment of women from Twic East across South Sudan
-            and the diaspora. Established in 2015, we unite our community in purpose
+            and the diaspora. Established in 2023, we unite our community in purpose
             and strength.`,
             `Through transparent governance, community engagement, and dedicated support
             programs, we strive to create opportunities and build a stronger future

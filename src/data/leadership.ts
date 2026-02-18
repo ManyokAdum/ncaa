@@ -22,7 +22,7 @@ export interface ExecutiveCommitteeMember {
     image?: string;
 }
 
-import mukaImage from "@/images/muka.jpeg";
+import mukaImage from "@/images/Ahou.jpeg";
 import yarKuirImage from "@/images/Yar_K.JPG";
 import ayakMajokImage from "@/images/Ayak_M.jpg";
 import yarGarangImage from "@/images/Yar_G.JPG";
@@ -32,6 +32,9 @@ import acholGarangImage from "@/images/Achol_G.jpg";
 import amerThonImage from "@/images/Amer_T.jpg";
 import yomNhianyImage from "@/images/Yom_N.jpg";
 import abuolImage from "@/images/Abuol.jpeg";
+import abukImage from "@/images/Abuk.jpeg";
+import nyandengImage from "@/images/Nyandeng.jpeg";
+import alekMayulImage from "@/images/Alek.jpeg";
 
 export const executiveCommittee: ExecutiveCommitteeMember[] = [
     {
@@ -71,7 +74,8 @@ export const executiveCommittee: ExecutiveCommitteeMember[] = [
         position: "Finance Secretary",
         icon: DollarSign,
         description: "Manages financial affairs and accounting",
-        color: "from-amber-500 to-orange-500"
+        color: "from-amber-500 to-orange-500",
+        image: nyandengImage
     },
     {
         name: "Ding Akoi Deu",
@@ -95,6 +99,14 @@ export const executiveCommittee: ExecutiveCommitteeMember[] = [
         icon: Megaphone,
         description: "Assists the information secretary",
         color: "from-pink-500 to-rose-500"
+    },
+    {
+        name: "Alek Mayul Pageer",
+        position: "Secretary for Internal and External Affairs",
+        icon: Users,
+        description: "Coordinates internal operations and external relations",
+        color: "from-violet-500 to-purple-600",
+        image: alekMayulImage
     },
     {
         name: "Abuol Sarah Chol",
@@ -125,7 +137,8 @@ export const executiveCommittee: ExecutiveCommitteeMember[] = [
         position: "Secretary for Culture and Sports",
         icon: Trophy,
         description: "Promotes cultural activities and sports programs",
-        color: "from-orange-500 to-red-500"
+        color: "from-orange-500 to-red-500",
+        image: abukImage
     },
     {
         name: "Achol Garang",

@@ -16,7 +16,7 @@ const About = () => {
                                 About NCAA
                             </h1>
                             <p className="text-lg text-primary-foreground/90 md:text-xl">
-                                Nyan Cit Arialbeek - Twic East Girls' Association
+                                Nyan Cit Arialbeek Association (NCAA)
                             </p>
                         </div>
                     </div>
@@ -105,7 +105,7 @@ const About = () => {
                             </h2>
                             <div className="space-y-6">
                                 <div className="rounded-lg border border-border bg-card p-6">
-                                    <h3 className="mb-2 font-heading text-xl font-semibold">2015 - Foundation</h3>
+                                    <h3 className="mb-2 font-heading text-xl font-semibold">2023 - Foundation</h3>
                                     <p className="text-muted-foreground">
                                         NCAA was established to unite and empower women from Twic East,
                                         creating a strong support network across South Sudan and the diaspora.

@@ -38,10 +38,10 @@ export function Footer() {
               />
               <div>
                 <p className="font-heading text-xl font-bold text-foreground">
-                  Twic East Girls' Association
+                  Nyan Cit Arialbeek Association
                 </p>
                 <p className="text-sm text-muted-foreground">
-                  Nyan Cit Arialbeek
+                  NCAA
                 </p>
               </div>
             </Link>
@@ -140,7 +140,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 flex flex-col items-center justify-between gap-4 border-t border-border pt-8 md:flex-row">
           <p className="text-center text-sm text-muted-foreground">
-            © {new Date().getFullYear()} Twic East Girls' Association. All rights
+            © {new Date().getFullYear()} Nyan Cit Arialbeek Association (NCAA). All rights
             reserved.
           </p>
           <div className="flex gap-6 text-sm">

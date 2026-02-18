@@ -44,7 +44,7 @@ const Constitution = () => {
                                 NCAA Constitution
                             </h1>
                             <p className="text-lg text-primary-foreground/90 md:text-xl">
-                                The foundational document governing Twic East Girls' Association
+                                The foundational document governing Nyan Cit Arialbeek Association (NCAA)
                             </p>
                         </div>
                     </div>
