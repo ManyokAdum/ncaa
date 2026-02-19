@@ -39,6 +39,7 @@ import AdminNotifications from "./pages/admin/Notifications";
 import { AdminRoute } from "./components/admin/AdminRoute";
 import NotFound from "./pages/NotFound";
 import { ScrollToTop } from "./components/ScrollToTop";
+import WhatsAppChat from "./components/WhatsAppChat";
 
 const queryClient = new QueryClient();
 
@@ -51,6 +52,7 @@ const App = () => (
             <Sonner />
             <BrowserRouter>
               <ScrollToTop />
+              <WhatsAppChat />
               <Routes>
           <Route path="/" element={<Index />} />
           <Route path="/about" element={<About />} />

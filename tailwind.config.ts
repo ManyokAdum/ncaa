@@ -166,12 +166,17 @@ export default {
           "0%, 100%": { opacity: "1" },
           "50%": { opacity: "0.5" },
         },
+        "whatsapp-ping": {
+          "0%": { transform: "scale(1)", opacity: "0.75" },
+          "75%, 100%": { transform: "scale(1.6)", opacity: "0" },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",
         shimmer: "shimmer 2s linear infinite",
         pulse: "pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite",
+        "whatsapp-pulse": "whatsapp-ping 2s cubic-bezier(0, 0, 0.2, 1) infinite",
       },
       spacing: {
         "18": "4.5rem",

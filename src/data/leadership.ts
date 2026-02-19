@@ -28,6 +28,7 @@ import ayakMajokImage from "@/images/Ayak_M.jpg";
 import yarGarangImage from "@/images/Yar_G.JPG";
 import dingAkoiImage from "@/images/Ding_A.jpg";
 import alekMajokImage from "@/images/Alek_M.jpeg";
+import athieiImage from "@/images/Athiei01.png";
 import acholGarangImage from "@/images/Achol_G.jpg";
 import amerThonImage from "@/images/Amer_T.jpg";
 import yomNhianyImage from "@/images/Yom_N.jpg";
@@ -98,7 +99,8 @@ export const executiveCommittee: ExecutiveCommitteeMember[] = [
         position: "Deputy Information Secretary",
         icon: Megaphone,
         description: "Assists the information secretary",
-        color: "from-pink-500 to-rose-500"
+        color: "from-pink-500 to-rose-500",
+        image: athieiImage
     },
     {
         name: "Alek Mayul Pageer",
