@@ -347,7 +347,7 @@ const Donate = () => {
                                             Have questions about donating? Contact us:
                                         </p>
                                         <div className="space-y-2 text-sm">
-                                            <p><strong>Email:</strong> nyancitarialbeek.juba@gmail.com</p>
+                                            <p><strong>Email:</strong> info@ncaa.org.ss</p>
                                             <p><strong>Phone:</strong> +211 920 287 970</p>
                                         </div>
                                     </CardContent>
